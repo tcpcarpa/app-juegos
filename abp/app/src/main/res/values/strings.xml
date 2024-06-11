@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Rubik</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="registro">Registro</string>
+    <string name="login">Login</string>
+    <string name="google">Google</string>
+    <string name="otro">grama</string>
+    <string name="stats">stats</string>
+    <string name="bomba">bomba</string>
+    <string name="palabras">palabras</string>
+    <string name="perfil">perfil</string>
+    <string name="logout">logout</string>
+    <string name="logoutText">Logout</string>
+    <string name="otrText">Extra</string>
+    <string name="statsText">Stats</string>
+    <string name="bombaText">Bomb!!</string>
+    <string name="wordsText">Words</string>
+    <string name="perfilText">Perfil</string>
+
+    <string name="perfilNom">Nombre</string>
+    <string name="perfilMail">E-mail</string>
+    <string name="perfilUserName">Alias</string>
+    <string name="buttonPerfil">Guardar Cambios</string>
+
+    <string name="ganadasAhorcado">Partidas Ganadas al Ahorcado:</string>
+    <string name="ganadasParaulogic">Partidas Jugadas al Paraulogic:</string>
+    <string name="inicioSesion">Número de Inicios de Sesión:</string>
+    <string name="ultimaSesion">Fecha de la última Sesión:</string>
+
+    <string name="splash_titulo">Nauto Games</string>
+    <string name="splash_subtit">Palabras para jugar</string>
+    <string name="rubik">rubik</string>
+
+    <string name="palabraGuiones"></string>
+    <string name="textoGuia"></string>
+    <string name="textPalabraBomb">PALABRA:</string>
+    <string name="textBotonBomb">Prueba Letra</string>
+    <string name="textLetraBomb">Introduce una Letra</string>
+
+    <string name="textPalaPala">PALABRA:</string>
+    <string name="textPalaAcierto">Palabras Acertadas: </string>
+    <string name="textPalaHintn">Introduce una Palabra</string>
+    <string name="textPalaBoton">Prueba la Palabra</string>
+</resources>
